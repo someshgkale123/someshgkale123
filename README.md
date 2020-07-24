@@ -1,4 +1,4 @@
-### Hi there, I'm Somesh 👋
+### Hi there, I'm [Somesh!](https://someshgkale123.github.io) 👋
 
 
 - 🔭 I’m currently working on mobile and wearable applications utilizing Machine learning techniques to make everyday lives better.
