@@ -1,6 +1,7 @@
 ## Hi there, I'm [Somesh!](https://someshgkale123.github.io) 👋
 
 
+<img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="300" height="300">
 
 - 🔭 I’m currently working on mobile and wearable applications utilizing Machine learning techniques to make everyday lives better.
 - 🌱 I'm currenly learing Swift, Xcode
