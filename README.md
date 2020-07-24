@@ -8,12 +8,12 @@
 - 📫 How to reach me: gkale.somesh@gmail.com   
 - 📝 [Resume](https://drive.google.com/file/d/1RmPh8LP6gfrktVzZfeQawcBmfwC2tGjt/view)
 
-**Languages & Tools**
+**Proficient in**
 <p float="left">
-  <a href="https://www.python.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" height="20"/></a>
-  <a href="https://www.qt.io/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg" height="20"/></a>
-  <a href="https://en.cppreference.com/w/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg" height="20"/></a>
-  <a href="https://cmake.org/"><img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cmake.svg" height="20"/></a>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/python.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/java.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/cplusplus.svg" height="20"/>
+  <img src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/javascript.svg" height="20"/>
 </p>
 
 **Connect**
