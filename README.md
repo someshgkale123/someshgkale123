@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on mobile and wearable applications utilizing Machine learning techniques to make everyday lives better.
 - 🌱 I'm currenly learing Swift, Xcode
 - 📫 How to reach me: gkale.somesh@gmail.com   
-- 📝 [Resume](https://drive.google.com/file/d/1RmPh8LP6gfrktVzZfeQawcBmfwC2tGjt/view)
+- 📝 [Resume](https://drive.google.com/file/d/1oyDX0_EsU2ZFtnbFYFh4sKVuP0AOZYv1/view?usp=sharing)
 
 **Proficient in**
 <p float="left">
