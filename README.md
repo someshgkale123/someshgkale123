@@ -3,8 +3,8 @@
 
 <img align="right" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" alt="Coder GIF" width="350" height="300">
 
-- 🔭 I’m currently working on mobile and wearable applications utilizing Machine learning techniques to make everyday lives better.
-- 🌱 I'm currenly learing Swift, Xcode
+- 🔭 I’m currently working on developing mobile and web applications utilizing Machine learning techniques to make everyday lives better.
+- 🌱 I'm currenly learing Node.js
 - 📫 How to reach me: gkale.somesh@gmail.com   
 - 📝 [Resume](https://drive.google.com/file/d/1oyDX0_EsU2ZFtnbFYFh4sKVuP0AOZYv1/view?usp=sharing)
 
