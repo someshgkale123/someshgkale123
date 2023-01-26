@@ -6,7 +6,6 @@
 - 🔭 I’m currently working on developing mobile and web applications utilizing Machine learning techniques to make everyday lives better.
 - 🌱 I'm currently learning Node.js, Angular
 - 📫 How to reach me: gkale.somesh@gmail.com   
-- 📝 [Resume](https://drive.google.com/file/d/1oyDX0_EsU2ZFtnbFYFh4sKVuP0AOZYv1/view?usp=sharing)
 
 **Proficient in**
 <p float="left">
